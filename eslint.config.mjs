@@ -25,4 +25,8 @@ export default [...compat.extends("plugin:@typescript-eslint/recommended"), {
     },
 }];
 
+
 // npm install eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin @eslint/js @eslint/eslintrc --save-dev
+
+// run the above command and save this file into the project directory and run npx eslint . --fix and you are good to go 
+// make sure you have already installed the eslint extension in vs code
